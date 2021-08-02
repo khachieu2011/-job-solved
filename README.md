@@ -21,6 +21,8 @@ Daily Report 2/8/2021 - Nguyễn Khắc Hiếu
     + Symbol
     + Object
  - Scope, Closure
+ - Methods with Array
+ - Methods with Object
 ■ Issue: 
 - Em vẫn đang mắc phải những lỗi cơ bản của JS
 - Thiếu kiến thức basic lẫn ( áp dụng thực tế )
