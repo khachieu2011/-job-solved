@@ -1,0 +1,18 @@
+Daily Report 3/8/2021 - Nguyễn Khắc Hiếu
+
+■ Today plan: ( Hôm nay e tập trung vào JS cả basic, nâng cao)
+	- Để nắm vững kiến thức JS thì e có tìm kiếm những web thực hành kiến thức
+	
+■ Actual :
+	+ Kiến thức về ES6
+	+ Basic Javascript
+	+ Regular Expressions
+
+■ Issue:
+	+ Em vẫn cần phải search tìm kiếm những phần quên
+	+ Nhiều methods hay dùng mà e vẫn bị ngượng phải tra lại
+ - Action
+	Em có thực hành trên freecodecamp đã được 100% phần đã làm nhưng e ko đưa ảnh vào được anh thông cam
+	
+ - Giai pháp :
+	Ngày mai e sẽ bắt đầu vs tutorial Reactjs
