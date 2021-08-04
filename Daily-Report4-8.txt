@@ -1,0 +1,22 @@
+Daily Report 3/8/2021 - Nguyễn Khắc Hiếu
+
+■ Today plan: ( Em xin phép vì lượng kiến thức hôm nay khá là ít)
+	- Em tìm hiểu về tailwind CSS
+	- Methods Js thông dụng
+	
+■ Actual :
+	+ Doc tailwindCSS 
+	+ Basic Javascript methods
+	+ Những kiến thức cơ bản về SASS,SCSS
+
+■ Issue:
+	+ Em vẫn cần phải search tìm kiếm những phần quên
+	+ Nhiều methods hay dùng mà e vẫn bị ngượng phải tra lại
+	+ Em hiện tại bị cái tật là hay quên và hay bị sao nhãng
+	+ Đang tìm hiểu cái này hay bị phân tân xang cái khác
+ - Action
+	Em có làm 1 caculator nhỏ với tailwinCSS nhưng chưa có chức năng
+		- https://codepen.io/khachieu/pen/RwVYRXG?editors=1000
+	
+ - Giai pháp :
+	Cố gắng tìm càng nhiều , trí nhớ ko tốt sẽ bổ sung bằng chăm chỉ ạ
