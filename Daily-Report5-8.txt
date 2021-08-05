@@ -1,0 +1,24 @@
+Tiếp cận js trong tài liệu này
+https://fullstackopen.com/en/part1/java_script
+
+Daily Report 5/8/2021 - Nguyễn Khắc Hiếu
+
+■ Today plan: ( I'm sory becau the knowledge today quite smallt) 
+	- Continue I'm learn and practice about Tailwind CSS
+	- Basic and advanced JavaScript
+	
+■ Actual :
+	+ Doc tailwindCSS, practice
+	+ Basic Javascript methods
+	+ DOM with JS
+
+■ Issue:
+	+I'm still search about my knowledge I'm forgot
+	+ Many method commonly used but I'm still to check them again
+
+ - Action
+	The template Create to login
+		- https://codepen.io/khachieu/pen/gOWdJgB
+	
+ - Giai pháp :
+	Try to find as many, bad memory will be replenished with hard work
