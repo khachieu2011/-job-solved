@@ -1,0 +1,26 @@
+
+
+
+Daily Report 6/8/2021 - Nguyễn Khắc Hiếu
+
+■ Today plan: ( Em xin phép vì lượng kiến thức hôm nay khá là ít)
+	- To day I practive about tailwindcss
+	- Methods Js thông dụng
+	- Research properties CSS so I forgot
+	- Some convertion in CSS, HTML : BEM, SASS
+	
+■ Actual :
+	+ Practive tailwindCSS 
+	+ Basic Javascript methods
+	+BEM ,SASS ,SCSS
+
+■ Issue:
+	+ Em vẫn cần phải search tìm kiếm những phần quên
+	+ Nhiều methods hay dùng mà e vẫn bị ngượng phải tra lại
+	+ 1 TODOlist mà e mất cả buổi sáng  (T T). em sẽ cố gắng
+ - Action
+	Create a small design signUP
+	- https://codepen.io/khachieu/pen/vYmVdRj
+	
+ - Giai pháp :
+	Try hard , Try hard and CHAI HÁT Ạ
