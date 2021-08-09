@@ -1,0 +1,26 @@
+
+
+
+ ---------- My daily report 8/9/2021
+
+■ Today plan: ( Em xin phép vì lượng kiến thức hôm nay khá là ít)
+	- Hôm nay e bắt đầu tìm hiểu về React hook
+	- Tìm hiểu về Fetch APi và XMLHttpRequest
+	- Hoàn thành simple Todo list
+	
+	
+■ Actual : (Tài liệu có vấn đề gì hay không đầy đủ , mong a hỗ trợ ạ )
+	+ React Hook : https://reactjs.org/docs/hooks-overview.html
+	+ Todo list : https://github.com/khachieu2011/Output_TodoList.git
+	+ Fetch API, XMLHttpRequest : https://viblo.asia/p/xmlhttprequest-vs-fetch-api-6J3ZgmWL5mB
+	+ Fetch API : https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
+
+■ Issue:
+	+ Em còn quên khá là nhanh nhưng method về string, array
+	+ Todo List có vài phần e cần copy ạ 
+	+ Thời gian để tự học hơi ngắn nên đến giờ e mới tiếp cận đến React Hook
+	+ 
+
+ - Giai pháp :
+	+ Try hard , Try hard and CHAI HÁT Ạ
+	+ Tranh thủ thời gian cả buổi tối 
