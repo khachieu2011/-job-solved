@@ -1,0 +1,27 @@
+
+
+
+ ---------- My daily report 8/10/2021
+
+■ Today plan: ( Em xin phép vì lượng kiến thức hôm nay khá là ít)
+	- Hôm nay e đang tìm hiểu về React hook
+	- Tìm hiểu về Fetch APi và XMLHttpRequest
+	- Hoàn thành simple Random Queto
+	- Ôn tập JS
+	
+	
+■ Actual :
+	+ React Hook : useCallback(), useMemo();
+	+ Fetch API, XMLHttpRequest : https://viblo.asia/p/xmlhttprequest-vs-fetch-api-6J3ZgmWL5mB
+	+ Tiếp xúc với package axios 
+	+ Random Quote simple : https://github.com/khachieu2011/random_quote_simple
+
+■ Issue:
+	+ Em còn quên khá là nhanh 
+	+ Random Quote có vài phần e cần copy ạ 
+	+ Đến nay e mới xong được React Hook (khá là chậm, sẽ cố gắng cải thiện)
+	
+
+ - Giai pháp :
+	+ Try hard , Try hard and CHAI HÁT Ạ
+	+ Tranh thủ thời gian cả buổi tối 
